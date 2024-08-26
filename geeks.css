@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: green;
+}
+#white{
+    background-color: white;
+    width: 500px;
+    height: 670px;
+    position: relative;
+    left: 390px;
+    top: 15px;
+    border-radius: 20px;
+}
+#text{
+    position: relative;
+    left: 450px;
+    top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+}
+.the{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 30px;
+    top: 15px;
+}
+.input{
+    width: 430px;
+    position: relative;
+    left: 30px;
+    bottom: 3px;
+}
+
+#options{
+    position: relative;
+    left: 30px;
+    width: 350px;
+}
+#the{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 27px;
+
+}
+#final{
+    position: relative;
+    left: 30px;
+    width: 250px;
+}
+#Email{
+    margin-top: 20px;
+}
+#Age{
+    margin-top: 20px;
+}
+#name{
+    margin-top: 20px;
+}
+.khaleed{
+    margin-top: -18px;
+}
+#submit{
+    margin-left: 30px;
+    margin-top: 10px;
+    width: 70px;
+    color: red;
+}
